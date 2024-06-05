@@ -5,4 +5,3 @@
         die(" database error ". mysqli_connect_error());
     } 
 
-?>
